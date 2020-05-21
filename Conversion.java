@@ -1,3 +1,4 @@
+// Convert fahrenhiet to celsius scale
 import java.util.Scanner;
 public class Conversion {
 

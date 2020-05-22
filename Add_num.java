@@ -1,3 +1,4 @@
+// WAP to add two numbers
 import java.util.Scanner;
 public class Add_num {
 

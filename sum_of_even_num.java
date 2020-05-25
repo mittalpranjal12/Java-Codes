@@ -1,3 +1,5 @@
+//Given a number N, print sum of all even numbers from 1 to N.
+
 package For_loop;
 
 import java.util.Scanner;

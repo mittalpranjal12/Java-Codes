@@ -1,3 +1,11 @@
+//Print the following pattern
+//Pattern for N = 4
+//  ...*
+//  ..***
+//  .*****
+//  *******
+//The dots represent spaces.
+
 package Patterns;
 
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+//Write a program to find x to the power n (i.e. x^n). 
+
 package For_loop;
 
 import java.util.Scanner;

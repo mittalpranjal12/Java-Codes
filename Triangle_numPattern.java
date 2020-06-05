@@ -1,3 +1,10 @@
+// Print the following pattern for the given N number of rows.
+// Pattern for N = 4
+// 1
+// 22
+// 333
+// 4444
+
 package Patterns;
 
 import java.util.Scanner;

@@ -1,3 +1,9 @@
+// Print the following pattern for the given N number of rows.
+// Pattern for N = 3
+//  A
+//  BB
+//  CCC
+
 package Patterns;
 
 import java.util.Scanner;

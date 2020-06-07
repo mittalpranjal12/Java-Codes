@@ -1,3 +1,11 @@
+// Print the following pattern for the given number of rows.
+// Pattern for N = 5
+// E
+// DE
+// CDE
+// BCDE
+// ABCDE
+
 package Patterns;
 
 import java.util.Scanner;

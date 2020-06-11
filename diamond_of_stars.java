@@ -1,3 +1,13 @@
+// Print the following pattern for the given number of rows.
+// Note: N is always odd.
+// Pattern for N = 5
+// ..*
+// .***
+// *****
+// .***
+// ..*
+// The dots represent spaces.
+
 package Patterns;
 
 import java.util.Scanner;

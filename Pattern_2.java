@@ -1,3 +1,14 @@
+// Number Star pattern 
+// Print the following pattern for given number of rows.
+
+// Pattern in N lines: 5
+// Sample Output :
+//  5432*
+//  543*1
+//  54*21
+//  5*321
+//  *4321
+
 package Patterns;
 
 import java.util.Scanner;

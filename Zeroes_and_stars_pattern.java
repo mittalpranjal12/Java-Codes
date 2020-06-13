@@ -1,3 +1,10 @@
+// Print the following pattern
+// Pattern for N = 4
+// *000*000*
+// 0*00*00*0
+// 00*0*0*00
+// 000***000
+
 package Patterns;
 
 import java.util.Scanner;

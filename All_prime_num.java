@@ -1,3 +1,10 @@
+// Given an integer N, print all the prime numbers that lie in the range 2 to N (both inclusive).
+// N = 9
+// 2
+// 3
+// 5
+// 7
+
 package For_loop;
 
 import java.util.Scanner;

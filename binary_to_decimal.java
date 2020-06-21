@@ -1,3 +1,7 @@
+// Given a binary number as an integer N, convert it into decimal and print.
+// N = 1100
+// 12
+
 package For_loop;
 
 import java.util.Scanner;

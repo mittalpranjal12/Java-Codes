@@ -1,3 +1,10 @@
+// Given a number N, figure out if it is a member of fibonacci series or not. Return true if the number is member of fibonacci series else false.
+// N = 5
+// true
+	
+// N = 14
+// false
+	
 package functions;
 
 import java.util.Scanner;

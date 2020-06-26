@@ -1,3 +1,11 @@
+// Given an array/list(ARR) of length N, you need to find and return the sum of all the elements in the array/list.
+// Input: 
+// 1
+// 3
+// 9 8 9
+// Output :
+// 26
+
 package arrays;
 
 import java.util.Scanner;

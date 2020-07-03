@@ -1,3 +1,17 @@
+// You have been given two sorted arrays/lists(ARR1 and ARR2) of size N and M respectively, merge them into a third array/list such that the third array is also sorted.
+// Input:
+// 2	//test cases
+// 3	//numbers N
+// 10 100 500
+// 7	//numbers M
+// 4 7 9 25 30 300 450
+// 4	//2nd test case numbers N
+// 7 45 89 90
+// 0	// M
+// Sample Output 2 :
+// 4 7 9 10 25 30 100 300 450 500 	//1 test case
+// 7 45 89 90			// 2 test case
+
 package searching_and_sorting;
 
 import java.util.Scanner;

@@ -1,3 +1,11 @@
+// Provided with a random integer array/list(ARR) of size N, you have been required to sort this array using 'Insertion Sort'.
+// Input:
+// 1  //test cases
+// 7  //numbers
+// 2 13 4 1 3 6 28
+// Output:
+// 1 2 3 4 6 13 28
+
 package searching_and_sorting;
 
 import java.util.Scanner;

@@ -1,3 +1,12 @@
+// You have been given a random integer array/list(ARR) of size N. Write a function that rotates the given array/list by D elements(towards the left).
+// Input:
+// 1
+// 7
+// 1 2 3 4 5 6 7
+// 2
+// Output:
+// 3 4 5 6 7 1 2
+
 package searching_and_sorting;
 
 import java.util.Scanner;

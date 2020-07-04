@@ -1,3 +1,13 @@
+// You have been given a random integer array/list(ARR) of size N.
+// You have been required to push all the zeros that are present in the array/list to the end of it.
+// Also, make sure to maintain the relative order of the non-zero elements.
+// Input:
+// 1		//test cases
+// 7
+// 2 0 0 1 3 0 0
+// Output:
+// 2 1 3 0 0 0 0
+	
 package searching_and_sorting;
 
 import java.util.Scanner;

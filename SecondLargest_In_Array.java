@@ -1,3 +1,12 @@
+// You have been given a random integer array/list(ARR) of size N. You are required to find and return the second largest element present in the array/list.
+// If N <= 1 or all the elements are same in the array/list then return -2147483648 or -2 ^ 31(It is the smallest value for the range of Integer)
+// Input:
+// 1
+// 7
+// 2 13 4 1 3 6 28
+// Output:
+// 13
+
 package searching_and_sorting;
 
 import java.util.Scanner;

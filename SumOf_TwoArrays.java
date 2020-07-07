@@ -1,3 +1,17 @@
+// Two random integer arrays/lists have been given as ARR1 and ARR2 of size N and M respectively. 
+// Both the arrays/lists contain numbers from 0 to 9(i.e. single digit integer is present at every index). 
+// The idea here is to represent each array/list as an integer in itself of digits N and M.
+// You need to find the sum of both the input arrays/list treating them as two integers and put the result in another array/list 
+// i.e. output array/list will also contain only single digit at every index.
+// Input:
+// 1
+// 3
+// 6 2 4
+// 3
+// 7 5 6
+// Output:
+// 1 3 8 0
+	
 package searching_and_sorting;
 
 import java.util.Scanner;

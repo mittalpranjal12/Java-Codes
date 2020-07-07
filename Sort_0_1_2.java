@@ -1,3 +1,12 @@
+// You are given an integer array/list(ARR) of size N. It contains only 0s, 1s and 2s. Write a solution to sort this array/list in a 'single scan'.
+// 'Single Scan' refers to iterating over the array/list just once or to put it in other words, you will be visiting each element in the array/list just once.
+// Input:
+// 1
+// 7
+// 0 1 2 0 2 0 1
+// Output:
+// 0 0 0 1 1 2 2 
+
 package searching_and_sorting;
 
 import java.util.Scanner;

@@ -1,3 +1,9 @@
+// Given a string S, count number of words in the string.
+// Input:
+// this is a sample string
+// Output:
+// 5
+
 package strings_and_2DArrays;
 
 import java.util.Scanner;

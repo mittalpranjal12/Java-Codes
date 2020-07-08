@@ -1,3 +1,15 @@
+// Given a String S of length n, print all its substrings.
+// Substring of a String S is a part of S (of any length from 1 to n), which contains all consecutive characters from S.
+// Input :
+// xyz
+// Output :
+// x
+// xy
+// xyz
+// y
+// yz
+// z
+
 package strings_and_2DArrays;
 
 import java.util.Scanner;

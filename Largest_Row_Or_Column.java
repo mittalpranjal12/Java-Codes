@@ -1,3 +1,13 @@
+// For a given two-dimensional integer array/list of size (N x M), 
+// you need to find out which row or column has the largest sum(sum of all the elements in a row/column) amongst all the rows and columns.
+//  Input :
+// 1
+// 2 2 
+// 1 1 
+// 1 1
+// Output :
+// row 0 2
+
 package strings_and_2DArrays;
 
 import java.util.Scanner;

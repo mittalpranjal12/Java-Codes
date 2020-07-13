@@ -1,3 +1,17 @@
+// Given two strings, S and T, check if they are permutations of each other. Return true or false.
+// Permutation means - length of both the strings should same and should contain same set of characters. Order of characters doesn't matter.
+// Note : Input strings contain only lowercase english alphabets.
+// Input 1 :
+// abcde
+// baedc
+// Output 1 :
+// true
+// Input 2 :
+// abc
+// cbd
+// Output 2 :
+// false
+
 package strings_and_2DArrays;
 
 import java.util.Scanner;

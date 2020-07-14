@@ -1,3 +1,10 @@
+// Given a string, S,remove all the consecutive duplicates that are present in the given string. That means, 
+// if 'aaa' is present in the string then it should become 'a' in the output string.
+// Input :
+// aabccbaa
+// Output:
+// abcba
+
 package strings_and_2DArrays;
 
 import java.util.Scanner;

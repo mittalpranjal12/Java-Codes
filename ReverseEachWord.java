@@ -1,3 +1,9 @@
+// Given a string S, reverse each word of a string individually. For eg. if a string is "abc def", reversed string should be "cba fed".
+// Input:
+// Welcome to Coding Ninjas
+// Output:
+// emocleW ot gnidoC sajniN
+
 package strings_and_2DArrays;
 
 import java.util.Scanner;

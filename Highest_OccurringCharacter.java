@@ -1,3 +1,10 @@
+// Given a string, S, find and return the highest occurring character present in the given string.
+// If there are 2 characters in the input string with same frequency, return the character which comes first.
+// Input:
+// abdefgbabfba
+// Output:
+// b
+
 package strings_and_2DArrays;
 
 import java.util.Scanner;

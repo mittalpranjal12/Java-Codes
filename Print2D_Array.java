@@ -1,3 +1,17 @@
+// Given a 2D integer array with n rows and m columns. Print the 0th row from input n times, 1st row n-1 times…..(n-1)th row will be printed 1 time.
+// Input :
+// 3 3
+// 1    2    3
+// 4    5    6
+// 7    8    9
+// Output :
+// 1    2    3
+// 1    2    3
+// 1    2    3
+// 4    5    6
+// 4    5    6
+// 7    8    9
+
 package strings_and_2DArrays;
 
 import java.util.Scanner;

@@ -1,3 +1,11 @@
+// Given a string S (that can contain multiple words), you need to find the word which has minimum length.
+// Note : If multiple words are of same length, then answer will be first minimum length word in the string.
+// Words are seperated by single space only.
+// Input :
+// this is test string
+// Output :
+// is
+
 package strings_and_2DArrays;
 
 import java.util.Scanner;

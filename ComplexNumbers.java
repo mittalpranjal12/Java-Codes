@@ -1,3 +1,16 @@
+// A ComplexNumber class contains two data members : one is the real part (R) and the other is imaginary (I) (both integers).
+// Implement the Complex numbers class that contains following functions -
+// 1. constructor
+// You need to create the appropriate constructor.
+// 2. plus -
+// This function adds two given complex numbers and updates the first complex number.
+// Input :
+// 4 5
+// 6 7
+// 1
+// Output :
+// 10 + i12
+
 package OOPS_1;
 
 public class ComplexNumbers {

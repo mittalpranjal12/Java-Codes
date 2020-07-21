@@ -1,3 +1,5 @@
+Given is the code to print numbers from 1 to n in increasing order recursively.
+
 package Recursion;
 
 import java.util.Scanner;

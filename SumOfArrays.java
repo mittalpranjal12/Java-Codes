@@ -1,3 +1,11 @@
+// Given an array of length N, you need to find and return the sum of all elements of the array.
+// Do this recursively.
+// Input :
+// 3
+// 9 8 9
+// Output :
+// 26
+
 package Recursion;
 
 import java.util.Scanner;

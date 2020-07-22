@@ -1,3 +1,12 @@
+// Given an array of length N and an integer x, you need to find if x is present in the array or not. Return true or false.
+// Do this recursively.
+// Input:
+// 3
+// 9 8 10
+// 8
+// Output:
+// true
+
 package Recursion;
 
 import java.util.Scanner;

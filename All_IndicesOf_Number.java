@@ -1,3 +1,12 @@
+// Given an array of length N and an integer x, you need to find all the indexes where x is present in the input array. Save all the indexes in an array (in increasing order).
+// Do this recursively. Indexing in the array starts from 0.
+// Input :
+// 5
+// 9 8 10 8 8
+// 8
+// Output :
+// 1 3 4
+
 package Recursion;
 
 import java.util.Scanner;

@@ -1,3 +1,11 @@
+// Given k, find the geometric sum i.e.
+// 1 + 1/2 + 1/4 + 1/8 + ... + 1/(2^k) 
+// using recursion.
+//  Input:
+// 3
+// Output:
+// 1.875
+
 package Recursion;
 
 import java.text.DecimalFormat;

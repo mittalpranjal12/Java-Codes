@@ -1,3 +1,11 @@
+// Given two integers M & N, calculate and return their multiplication using recursion. You can only use subtraction and addition for your calculation. 
+// No other operators are allowed.
+//  Input:
+// 3 
+// 5
+//  Output :
+// 15
+
 package Recursion;
 
 import java.util.Scanner;

@@ -1,3 +1,9 @@
+// Given an integer N, count and return the number of zeros that are present in the given integer using recursion.
+//  Input:
+// 10204
+// Output :
+// 2
+
 package Recursion;
 
 import java.util.Scanner;

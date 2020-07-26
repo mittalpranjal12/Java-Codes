@@ -1,3 +1,14 @@
+// Given a string, compute recursively a new string where all appearances of "pi" have been replaced by "3.14".
+// Input 1 :
+// xpix
+// Output :
+// x3.14x
+// Input 2 :
+// pipi
+// Output :
+//3.143.14
+	
+
 package Recursion;
 
 import java.util.Scanner;

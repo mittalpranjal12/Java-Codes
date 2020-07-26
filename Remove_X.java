@@ -1,3 +1,9 @@
+// Given a string, compute recursively a new string where all 'x' chars have been removed.
+// Input :
+// xaxb
+// Output:
+// ab
+
 package Recursion;
 
 import java.util.Scanner;

@@ -1,3 +1,13 @@
+// Given a string S, remove consecutive duplicates from it recursively.
+// Input 1 :
+// aabccba
+// Output 1 :
+// abcba
+// Input 2 :
+// xxxyyyzwwzzz
+// Output 2 :
+// xyzwz
+
 package Recursion;
 
 import java.util.Scanner;

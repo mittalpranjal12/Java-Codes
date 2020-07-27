@@ -4,7 +4,7 @@ package Recursion;
 
 import java.util.Scanner;
 
-public class MergeSort {
+public class MergeSort_Recursively {
 
 	public static int[] takeInput() {
 		Scanner s = new Scanner(System.in);

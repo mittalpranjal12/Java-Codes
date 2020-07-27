@@ -1,3 +1,5 @@
+//Sort an array A using Merge Sort.
+
 package Recursion;
 
 import java.util.Scanner;

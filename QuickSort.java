@@ -1,3 +1,10 @@
+ //Sort an array A using Quick Sort.
+// Input :
+// 6 
+// 2 6 8 5 4 3
+// Output:
+// 2 3 4 5 6 8
+
 package Recursion;
 
 import java.util.Scanner;

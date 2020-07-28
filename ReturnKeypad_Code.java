@@ -1,3 +1,20 @@
+// Given an integer n, using phone keypad find out all the possible strings that can be made using digits of input n.
+// Return empty string for numbers 0 and 1.
+// Note : 1. The order of strings are not important.
+// 2. You have to populate the output array and return the count of elements populated in the output array.
+//  Input:
+// 23
+// Output:
+// ad
+// ae
+// af
+// bd
+// be
+// bf
+// cd
+// ce
+// cf
+
 package Recursion;
 
 import java.util.Scanner;
